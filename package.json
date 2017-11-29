@@ -24,7 +24,8 @@
     "gulp-watch": "^4.3.5",
     "js-nacl": "^0.6.0",
     "less": "^2.7.3",
-    "parallelshell": "^3.0.2"
+    "parallelshell": "^3.0.2",
+    "request": "^2.83.0"
   },
   "devDependencies": {},
   "scripts": {
