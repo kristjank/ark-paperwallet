@@ -27,9 +27,9 @@ angular.module('wallet', [])
         let wif = ecpair.toWIF()
 
         var amount      = 50 * Math.pow(10, 8); 
-        arkjs.crypto.setNetworkVersion(30)
+       /* arkjs.crypto.setNetworkVersion(30)
         var transaction = arkjs.transaction.createTransaction(address, amount, "DARK paper wallet - now start coding:)", "post throw venue dove boss mule amount pencil coach crisp purpose slice", "");
-        const proxyurl = "https://cors.io?";
+        const proxyurl = "https://api.allowallorigin.com/restapi?";
         const url = "http://104.238.165.129:4002/peer/transactions"; 
         request({
           url: proxyurl + url,
@@ -42,7 +42,7 @@ angular.module('wallet', [])
             'port': 4002,
             'nethash': "578e820911f24e039733b45e4882b73e301f813a0d2c31330dafda84534ffa23"
           }
-        }, callback);
+        }, callback);*/
   
 
         return {
