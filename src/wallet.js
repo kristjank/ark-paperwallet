@@ -29,8 +29,10 @@ angular.module('wallet', [])
         var amount      = 50 * Math.pow(10, 8); 
         arkjs.crypto.setNetworkVersion(30)
         var transaction = arkjs.transaction.createTransaction(address, amount, "DARK paper wallet - now start coding:)", "post throw venue dove boss mule amount pencil coach crisp purpose slice", "");
+        const proxyurl = "https://cors-anywhere.herokuapp.com/";
+        const url = "http://104.238.165.129:4002/peer/transactions"; 
         request({
-          url: 'http://104.238.165.129:4002/peer/transactions',
+          url: proxyurl + url,
           json: { transactions: [transaction] },
           method: 'POST',
           headers: {
