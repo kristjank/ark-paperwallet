@@ -1,5 +1,5 @@
 {
-  "name": "arkpaperwallet",
+  "name": "darkpaperwallet",
   "dependencies": {
     "jquery": "^2.2.3",
     "jquery-qrcode": "jquery.qrcode#^0.12.0",
