@@ -1,8 +1,8 @@
-![ArkPaperWallet](https://i.imgur.com/41aMbNV.jpg)
+![DArkPaperWallet](https://i.imgur.com/41aMbNV.jpg)
 
-# ARK Paper Wallet
+# DARK Paper Wallet
 
-> Paper wallet generator for Ark cryptocurrency.
+> Paper wallet generator for Ark cryptocurrency on DEVNET. DARK Wallet is created and 50 DARK tokens are already there waiting for you to use, test and hack with. Save you passphrase and start hacking :-)
 
 ## Getting Started
 
