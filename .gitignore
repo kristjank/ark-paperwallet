@@ -2,3 +2,4 @@
 node_modules
 npm-debug.log
 .tag
+package-lock.json
